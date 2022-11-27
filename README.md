@@ -1,1 +1,1 @@
-# az-notes
+# Alfred Zhong's Notes
